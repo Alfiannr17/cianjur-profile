@@ -6,7 +6,6 @@
 [![Laravel](https://img.shields.io/badge/Laravel-11.x-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
 [![Filament](https://img.shields.io/badge/Filament-3.x-D97706?style=for-the-badge&logo=livewire&logoColor=white)](https://filamentphp.com)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.x-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
-[![Alpine.js](https://img.shields.io/badge/Alpine.js-3.x-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=white)](https://alpinejs.dev)
 
 ## 📖 Tentang Projek
 
@@ -37,30 +36,23 @@ Dibangun dengan **TALL Stack** (Tailwind, Alpine, Laravel, Livewire) dan menggun
 
 | Landing Page | Admin Dashboard |
 | :---: | :---: |
-| ![Landing Page](cianjur/public/images/ss2.png) | ![Admin Dashboard](cianjur/public/images/ss4.png) |
+| ![Landing Page](public/images/ss2.png) | ![Admin Dashboard](public/images/ss4.png) |
 
 | Menu Mobile Modern | Manajemen Destinasi |
 | :---: | :---: |
-| ![Mobile Menu](cianjur/public/images/ss1.png) | ![CMS](cianjur/public/images/ss3.png) |
+| ![Mobile Menu](public/images/ss1.png) | ![CMS](public/images/ss3.png) |
 
 
-*(Catatan: Ganti path gambar di atas dengan lokasi screenshot kamu)*
 
 ---
 
-## 🛠️ Instalasi & Penggunaan
-
-Ikuti langkah ini untuk menjalankan projek di komputer lokal (Localhost):
-
-### Prasyarat
 - PHP >= 8.2
 - Composer
 - Node.js & NPM
 - MySQL
 
-### Langkah-langkah
 
-1. **Clone Repository**
+**Clone Repository**
    ```bash
    git clone [https://github.com/username/cianjur-visit.git](https://github.com/username/cianjur-visit.git)
    cd cianjur-visit
