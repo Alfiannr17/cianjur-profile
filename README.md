@@ -11,7 +11,7 @@
 
 **Cianjur Visit** adalah sistem informasi pariwisata berbasis web yang dirancang untuk mempromosikan destinasi wisata, event budaya, dan berita terkini seputar Kabupaten Cianjur. Aplikasi ini menghubungkan wisatawan dengan informasi akurat yang dikelola langsung oleh Dinas Pariwisata melalui panel admin yang canggih.
 
-Dibangun dengan **TALL Stack** (Tailwind, Alpine, Laravel, Livewire) dan menggunakan **FilamentPHP** sebagai Admin Panel super cepat.
+Dibangun dengan **TALL Stack** (Tailwind, Laravel, Livewire) dan menggunakan **FilamentPHP** sebagai Admin Panel super cepat.
 
 ---
 
