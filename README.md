@@ -38,7 +38,7 @@ Dibangun dengan **TALL Stack** (Tailwind, Alpine, Laravel, Livewire) dan menggun
 | :---: | :---: |
 | ![Landing Page](public/images/ss2.png) | ![Admin Dashboard](public/images/ss4.png) |
 
-| Menu Mobile Modern | Manajemen Destinasi |
+| Manajemen Destinasi | Menu Mobile Modern |
 | :---: | :---: |
 | ![Mobile Menu](public/images/ss1.png) | ![CMS](public/images/ss3.png) |
 
